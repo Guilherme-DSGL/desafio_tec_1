@@ -41,9 +41,9 @@ dart test
 [
 test/desafio_tecnico_1_test.dart](https://github.com/Guilherme-DSGL/desafio_tec_1/blob/main/test/desafio_tec_1_test.dart)
 
-> O exemplo de uso pode ser visto em: [bin/desafio_tecnico_1.dart](https://github.com/Guilherme-DSGL/desafio_tec_1/blob/main/bin/desafio_tec_1.dart)
+> O exemplo de uso pode ser visto em: [bin/desafio_tec_1.dart](https://github.com/Guilherme-DSGL/desafio_tec_1/blob/main/bin/desafio_tec_1.dart)
 
-> A implementação pode ser vista em: [lib/desafio_tecnico_1.dart](https://github.com/Guilherme-DSGL/desafio_tec_1/blob/main/lib/desafio_tec_1.dart)
+> A implementação pode ser vista em: [lib/desafio_tec_1.dart](https://github.com/Guilherme-DSGL/desafio_tec_1/blob/main/lib/desafio_tec_1.dart)
 
 
 ## Desenvolvedor
