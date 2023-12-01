@@ -1,4 +1,4 @@
-# O Desafio
+# Desafio para Vaga Estágio de desenovlimento em Flutter
 
 O desafio consistia em implementar uma função que somasse os divisores de 3 ou 5.
 
